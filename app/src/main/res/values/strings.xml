@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploappFramelayout</string>
+    <string name="login_title"> ! Mi calidosa Eco-App ¡</string>
+    <string name="login_user_input">Usuario</string>
+    <string name="login_pass_input">Contraseña</string>
+    <string name="string_botton_name">Iniciar Sesión</string>
+    <string name="login_recover_pass">¿ Olvidaste tu contraseña ?</string>
+</resources>
